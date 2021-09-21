@@ -1,6 +1,7 @@
 # Alfred pritunl vpn
 
 This alfred workflow allows you to connect to pritunl with 2f/OTP without having to enter your PIN every time.
+
 ![overview](/doc/overview.png)
 
 
